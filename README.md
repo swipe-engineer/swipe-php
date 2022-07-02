@@ -77,7 +77,7 @@ $swipe->paymentLink->delete(PAYMENT_LINK_ID);
 ```
 
 ## Source
-[Swipe Docs](https://dev-api.swipego.io/docs/)
+[Swipe Docs](https://dev-api.swipego.io/docs)
 
 
 ## License
