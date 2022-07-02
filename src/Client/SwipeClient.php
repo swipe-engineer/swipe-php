@@ -8,8 +8,8 @@ class SwipeClient
     private static $apiKey      = null;
     private static $testMode    = false;
 
-    private static $apiBase     = 'https://f70-backend.test/api';
-    private static $apiTestBase = 'https://f70-backend-test.test/api';
+    private static $apiBase     = 'https://stg-api.swipego.io/api';
+    private static $apiTestBase = 'https://stg-test-api.swipego.io/api';
 
     public function __construct($apiKey = null)
     {
