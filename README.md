@@ -1,10 +1,3 @@
-
-<p align="center">
-  <a href="https://swipego.io" target="_blank" rel="swipego.io">
-    <img width="300" src="https://swipego.io/wp-content/uploads/2021/09/Swipe-Logo-e1632970216985.png" alt="swipe logo">
-  </a>
-</p>
-
 # Swipe PHP
 
 It is simple wrapper class written in php to ease use of [Swipe](https://swipego.io) 
