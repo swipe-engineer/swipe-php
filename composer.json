@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Swipego\\": "src/"
+            "Swipe\\": "src/"
         }
     },
     "require-dev": {
