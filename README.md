@@ -27,6 +27,8 @@ After installing, you need to require Composer's autoloader and add your code.
 
 Setup config
 ```$xslt
+use Swipe\Swipe;
+
 $swipe = new Swipe(API_KEY);
 ```
 
