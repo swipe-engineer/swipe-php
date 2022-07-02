@@ -39,7 +39,7 @@ $swipe = new Swipe();
 // SET API KEY
 $swipe->setApiKey(API_KEY);
 
-// SET TEST MODE - by default `false`
+// SET TEST MODE
 $swipe->setTestMode(true);
 
 ```
